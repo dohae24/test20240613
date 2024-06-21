@@ -1,0 +1,49 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+#wrap {
+    margin:0 auto ;
+    width: 1200px;
+    height: 1000px;
+    background-color: #8c8a8a;
+}
+
+#header {
+    display: flex;
+}
+
+.log {
+    height: 100px;
+    width: 100%;
+    background-color: #cf8989;
+}
+
+#main {
+    display: flex;
+}
+
+.content01 {
+    height: 800px;
+    width: 400px;
+    background-color: #0d6921;
+}
+
+.content02 {
+    height: 800px;
+    width: 400px;
+    background-color: #37c04c;
+}
+
+.content03 {
+    height: 800px;
+    width: 400px;
+    background-color: #9ecfa9;
+}
+
+.finish {
+    height: 100px;
+    width: 100%;
+    background-color: #a07c7c;
+}
